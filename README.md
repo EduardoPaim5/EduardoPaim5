@@ -44,9 +44,9 @@ Reproducible performance experiment using Python, k6, Docker, Docker Swarm, AWS 
 
 Python simulator for comparing task-allocation strategies across edge and cloud environments. It produces reproducible measurements for SLA, p95 latency, makespan, cost and energy consumption.
 
-### [GraphCognitio](https://github.com/GraphCognitio/graphcognitio)
+### GraphCognitio — [Backend](https://github.com/GraphCognitio/graphcognitio) · [Frontend](https://github.com/GraphCognitio/graphcognitio-web)
 
-Graph-oriented social network built with Java 17, Spring Boot, React and TypeScript. It includes REST APIs, JWT authentication, role-based access control, auditing, cursor-based feeds, full-text search, caching, rate limiting and an interactive graph interface. [Frontend repository](https://github.com/GraphCognitio/graphcognitio-web).
+Graph-oriented social network built with Java 17, Spring Boot, React and TypeScript. It includes REST APIs, JWT authentication, role-based access control, auditing, cursor-based feeds, full-text search, caching, rate limiting and an interactive graph interface.
 
 ### [PVault](https://github.com/EduardoPaim5/pvault)
 
