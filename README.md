@@ -44,13 +44,11 @@ Reproducible performance experiment using Python, k6, Docker, Docker Swarm, AWS 
 
 Python simulator for comparing task-allocation strategies across edge and cloud environments. It produces reproducible measurements for SLA, p95 latency, makespan, cost and energy consumption.
 
-### [E-commerce System](https://github.com/EduardoPaim5/ecommerce-sistema)
+### [PVault](https://github.com/EduardoPaim5/pvault)
 
-Full-stack e-commerce application using TypeScript, Node.js, Fastify, React and Vite, with layered architecture, authentication, role-based access control, REST APIs and automated tests.
+Experimental local-first password vault for Linux written in C11. It explores authenticated encrypted storage with Argon2id, XChaCha20-Poly1305, libsodium, atomic writes, locked memory and a threat model focused on protecting secrets.
 
-### [Agenda Médica](https://github.com/EduardoPaim5/agenda-medica-timesaver)
-
-Service-integrated web application using Flask, Python, Pydantic, SQLite, Docker Compose and JavaScript, with authentication, contract validation, health checks and integration tests.
+> PVault is pre-alpha software and has not received an independent security audit. It should not be used to store real credentials.
 
 ## Beyond the code
 
