@@ -18,7 +18,7 @@ Busco oportunidades júnior em backend ou full stack. Tenho disponibilidade remo
 | BeTalent Payments API | Laravel, fallback entre gateways, idempotência, autorização e reembolso | [Repositório e roteiro](https://github.com/EduardoPaim5/betalent-payments-api) |
 | Jungle Backend Challenge | NestJS/Bun, dinheiro exato, transações, outbox e recuperação via SQS | [Repositório e demo local](https://github.com/EduardoPaim5/jungle-backend-challenge) |
 | GraphCognitio | Java/Spring Boot, PostgreSQL e exploração de conversas em grafo | [Backend](https://github.com/GraphCognitio/graphcognitio) · [Frontend e capturas](https://github.com/GraphCognitio/graphcognitio-web) |
-| PulseAPI | Monitoramento de endpoints com Java/Spring Boot e painel React | [Backend](https://github.com/EduardoPaim5/pulseapi) · [Interface](https://github.com/EduardoPaim5/pulseapi-web) |
+| PulseAPI | Monitoramento de endpoints com Java/Spring Boot e painel React | [Backend](https://github.com/EduardoPaim5/pulseapi) · [Visita com dados fictícios](https://pulseapi-web.vercel.app/dashboard?demo=1) · [Interface](https://github.com/EduardoPaim5/pulseapi-web) |
 | Agenda Médica | Integração HTTP em Flask, contratos, estados de erro e testes | [Repositório e capturas](https://github.com/EduardoPaim5/agenda-medica-timesaver) |
 | Nexo | Tema e plugin PHP para WooCommerce, frete e checkout simulado | [Repositório e gravação](https://github.com/EduardoPaim5/nexo-woocommerce) |
 
