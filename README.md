@@ -1,45 +1,45 @@
 # Eduardo Paim
 
-**Desenvolvedor Backend Júnior · PHP/Laravel · SQL · Integrações**
+🇧🇷 [Versão em português](README.pt-BR.md)
 
-Sou graduando em Engenharia de Software na UNIPAMPA, com conclusão prevista para julho de 2027. Atuo como bolsista de desenvolvimento no Intelectio, sistema de gestão de propriedade intelectual em piloto institucional. Minha experiência inclui regras de negócio, isolamento de dados por organização, integração com fontes públicas, filas, testes e manutenção de aplicações web.
+**Junior Backend Developer · PHP/Laravel · SQL · Integrations**
 
-Busco oportunidades júnior em backend ou full stack. Tenho disponibilidade remota e considero trabalho híbrido ou presencial com apoio à realocação e transição combinada.
+I am a Software Engineering undergraduate at UNIPAMPA (Brazil), expected to graduate in July 2027. I work as a software development fellow on Intelectio, an intellectual property management platform in an institutional pilot. My work covers business rules, per-organization data isolation, integrations with public data sources, queues, testing and web application maintenance.
 
-## Experiência e estudos de caso
+I am looking for junior backend or full stack opportunities. I am available for remote work and open to hybrid or on-site roles with relocation support and an agreed transition.
 
-- **[Intelectio](docs/cases/intelectio.md)**: atuação institucional com PHP/Laravel, MySQL, Blade, Alpine.js, Redis e Docker. Código privado; [página pública do produto](https://intelectio.com.br/).
-- **[AVICO Gestão ONG](docs/cases/avico.md)**: TCC com Laravel e PostgreSQL, gestão de associados e contribuições, importação, permissões e auditoria. Código privado.
+## Experience and case studies
 
-## Projetos para conhecer meu trabalho
+- **[Intelectio](docs/cases/intelectio.md)**: institutional work with PHP/Laravel, MySQL, Blade, Alpine.js, Redis and Docker. Private code; [public product page](https://intelectio.com.br/).
+- **[AVICO NGO Management](docs/cases/avico.md)**: capstone project with Laravel and PostgreSQL covering member and contribution management, data import, permissions and audit logs. Private code.
 
-| Projeto | O que avaliar | Código e demonstração |
+## Projects to evaluate my work
+
+| Project | What to look at | Code and demo |
 |---|---|---|
-| BeTalent Payments API | Laravel, fallback entre gateways, idempotência, autorização e reembolso | [Repositório e roteiro](https://github.com/EduardoPaim5/betalent-payments-api) |
-| Jungle Backend Challenge | NestJS/Bun, dinheiro exato, transações, outbox e recuperação via SQS | [Repositório e demo local](https://github.com/EduardoPaim5/jungle-backend-challenge) |
-| GraphCognitio | Java/Spring Boot, PostgreSQL e exploração de conversas em grafo | [Backend](https://github.com/GraphCognitio/graphcognitio) · [Frontend e capturas](https://github.com/GraphCognitio/graphcognitio-web) |
-| PulseAPI | Monitoramento de endpoints com Java/Spring Boot e painel React | [Backend](https://github.com/EduardoPaim5/pulseapi) · [Visita com dados fictícios](https://pulseapi-web.vercel.app/dashboard?demo=1) · [Interface](https://github.com/EduardoPaim5/pulseapi-web) |
-| Agenda Médica | Integração HTTP em Flask, contratos, estados de erro e testes | [Repositório e capturas](https://github.com/EduardoPaim5/agenda-medica-timesaver) |
-| Nexo | Tema e plugin PHP para WooCommerce, frete e checkout simulado | [Repositório e gravação](https://github.com/EduardoPaim5/nexo-woocommerce) |
+| BeTalent Payments API | Laravel, gateway fallback, idempotency, authorization and refunds | [Repository and walkthrough](https://github.com/EduardoPaim5/betalent-payments-api) |
+| Jungle Backend Challenge | NestJS/Bun, exact money handling, transactions, outbox and SQS-based recovery | [Repository and local demo](https://github.com/EduardoPaim5/jungle-backend-challenge) |
+| GraphCognitio | Java/Spring Boot, PostgreSQL and graph-based conversation exploration | [Backend](https://github.com/GraphCognitio/graphcognitio) · [Frontend and screenshots](https://github.com/GraphCognitio/graphcognitio-web) |
+| PulseAPI | Endpoint monitoring with Java/Spring Boot and a React dashboard | [Backend](https://github.com/EduardoPaim5/pulseapi) · [Demo with fictional data](https://pulseapi-web.vercel.app/dashboard?demo=1) · [Interface](https://github.com/EduardoPaim5/pulseapi-web) |
+| Agenda Médica | HTTP integration in Flask, contracts, error states and tests | [Repository and screenshots](https://github.com/EduardoPaim5/agenda-medica-timesaver) |
+| Nexo | PHP theme and plugin for WooCommerce, shipping and simulated checkout | [Repository and recording](https://github.com/EduardoPaim5/nexo-woocommerce) |
 
-## Contribuição open source
+## Open source contribution
 
-- **[Thoth](https://github.com/Thoth2023/thoth-remake)**, ferramenta colaborativa para revisões sistemáticas em Laravel: [4 pull requests aceitos](https://github.com/Thoth2023/thoth-remake/pulls?q=is%3Apr+author%3AEduardoPaim5+is%3Amerged) em 2025 — correção do sistema de convites para projetos, funcionalidade de recusar convite e documentação inline dos módulos de Quality Assessment, Project e User.
+- **[Thoth](https://github.com/Thoth2023/thoth-remake)**, a collaborative tool for systematic literature reviews built with Laravel: [4 merged pull requests](https://github.com/Thoth2023/thoth-remake/pulls?q=is%3Apr+author%3AEduardoPaim5+is%3Amerged) in 2025 — a fix for the project invitation system, a feature to decline invitations, and inline documentation for the Quality Assessment, Project and User modules.
 
-## Tecnologias por contexto
+## Technologies by context
 
-**Atuação no Intelectio:** PHP, Laravel, Eloquent, MySQL, Blade, Alpine.js, Tailwind CSS, Redis, filas, PHPUnit, Laravel Dusk, Docker Compose, Git e GitHub Actions.
+**At Intelectio:** PHP, Laravel, Eloquent, MySQL, Blade, Alpine.js, Tailwind CSS, Redis, queues, PHPUnit, Laravel Dusk, Docker Compose, Git and GitHub Actions.
 
-**Projetos:** Java/Spring Boot, TypeScript/NestJS, React, Python/Flask e PostgreSQL. O nível de evidência e as limitações estão nos READMEs de cada projeto.
+**Projects:** Java/Spring Boot, TypeScript/NestJS, React, Python/Flask and PostgreSQL. The level of evidence and known limitations are described in each project's README.
 
-**Pesquisa e exploração:** [reprodutibilidade de testes de desempenho](https://github.com/EduardoPaim5/performance-reproducibility), [simulador Edge-Cloud](https://github.com/EduardoPaim5/edge-cloud-task-allocation-simulator) e [PVault em C](https://github.com/EduardoPaim5/pvault). O PVault é experimental e não deve armazenar credenciais reais.
+**Research and exploration:** [performance testing reproducibility](https://github.com/EduardoPaim5/performance-reproducibility), [Edge-Cloud simulator](https://github.com/EduardoPaim5/edge-cloud-task-allocation-simulator) and [PVault in C](https://github.com/EduardoPaim5/pvault). PVault is experimental and must not store real credentials.
 
-Uso IA como assistência ao desenvolvimento. A responsabilidade pela revisão, pelos testes e pelas decisões continua sendo minha.
+I use AI as a development aid. Responsibility for review, testing and decisions remains mine.
 
-## Contato
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-ds-paim/) · [E-mail](mailto:epaim2005@gmail.com) · Alegrete, RS, Brasil
+[LinkedIn](https://www.linkedin.com/in/eduardo-ds-paim/) · [Email](mailto:epaim2005@gmail.com) · [Portfolio](https://eduardopaim5.github.io) · Alegrete, RS, Brazil
 
----
-
-Software Engineering student at UNIPAMPA and software development scholarship holder. My primary professional stack is PHP/Laravel and SQL, with additional Java, TypeScript and Python projects and merged contributions to the open-source Laravel project Thoth. Open to junior backend and full-stack opportunities.
+Languages: Portuguese (native), English (advanced).
