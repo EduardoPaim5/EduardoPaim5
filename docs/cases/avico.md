@@ -1,30 +1,32 @@
-# AVICO Gestão ONG: TCC em Engenharia de Software
+# AVICO NGO Management: Software Engineering capstone project
+
+🇧🇷 [Versão em português](avico.pt-BR.md)
 
 **Eduardo dos Santos Paim · Laravel · PostgreSQL · Docker**
 
-[Contato](https://www.linkedin.com/in/eduardo-ds-paim/) · [Perfil](https://github.com/EduardoPaim5)
+[Contact](https://www.linkedin.com/in/eduardo-ds-paim/) · [Profile](https://github.com/EduardoPaim5)
 
-## Problema e escopo
+## Problem and scope
 
-Sistema web desenvolvido como TCC para apoiar gestão de associados, contribuições, doações e transparência de uma ONG. A proposta conecta rotinas administrativas, rastreabilidade financeira e organização dos dados.
+A web system developed as my capstone project (TCC) to support an NGO's management of members, contributions, donations and transparency. It connects administrative routines, financial traceability and data organization.
 
-## Minha atuação
+## My role
 
-Desenvolvimento das funcionalidades, modelagem e persistência, importação de dados legados, perfis e permissões, auditoria, relatórios, testes e documentação. O ambiente reproduzível usa Docker Compose.
+Feature development, modeling and persistence, legacy data import, roles and permissions, audit logs, reports, tests and documentation. The reproducible environment uses Docker Compose.
 
-## Fluxo escolhido para avaliação
+## Flow chosen for evaluation
 
-Importação de dados fictícios → cadastro do associado → contribuição → registro de pagamento → relatório.
+Import of fictional data → member registration → contribution → payment record → report.
 
-Esse recorte permite discutir validação de dados, tratamento de duplicidade, autorização, consistência financeira e rastreabilidade, sem apresentar informações pessoais de associados.
+This slice makes it possible to discuss data validation, duplicate handling, authorization, financial consistency and traceability without exposing members' personal information.
 
-## Decisões de implementação
+## Implementation decisions
 
-- Laravel organiza validações, autorização e regras de negócio.
-- PostgreSQL mantém os dados relacionais; registros financeiros possuem caminhos de auditoria e controle de repetição.
-- A importação deve informar problemas de dados e preservar contexto para conferência.
-- Testes e documentação apoiam a preparação dos fluxos para avaliação com usuários.
+- Laravel organizes validation, authorization and business rules.
+- PostgreSQL holds the relational data; financial records have audit trails and protection against repeated operations.
+- The import must report data problems and preserve context for review.
+- Tests and documentation support preparing the flows for evaluation with users.
 
-## Estado atual
+## Current status
 
-Projeto em desenvolvimento e preparação de fluxos para avaliação. Não afirmo adoção operacional, aceite final ou resultado de produtividade sem registro correspondente. O código é privado; o antigo link público não deve ser usado como acesso ao repositório. Uma demonstração, quando preparada, utiliza dados fictícios.
+The project is under development, with flows being prepared for evaluation. I do not claim operational adoption, final acceptance or productivity results without a corresponding record. The code is private; the old public link must not be used to access the repository. A demo, when prepared, uses fictional data.

@@ -10,8 +10,8 @@ Busco oportunidades júnior em backend ou full stack. Tenho disponibilidade remo
 
 ## Experiência e estudos de caso
 
-- **[Intelectio](docs/cases/intelectio.md)**: atuação institucional com PHP/Laravel, MySQL, Blade, Alpine.js, Redis e Docker. Código privado; [página pública do produto](https://intelectio.com.br/).
-- **[AVICO Gestão ONG](docs/cases/avico.md)**: TCC com Laravel e PostgreSQL, gestão de associados e contribuições, importação, permissões e auditoria. Código privado.
+- **[Intelectio](docs/cases/intelectio.pt-BR.md)**: atuação institucional com PHP/Laravel, MySQL, Blade, Alpine.js, Redis e Docker. Código privado; [página pública do produto](https://intelectio.com.br/).
+- **[AVICO Gestão ONG](docs/cases/avico.pt-BR.md)**: TCC com Laravel e PostgreSQL, gestão de associados e contribuições, importação, permissões e auditoria. Código privado.
 
 ## Projetos para conhecer meu trabalho
 

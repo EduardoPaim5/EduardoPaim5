@@ -1,38 +1,40 @@
-# Intelectio: desenvolvimento de um sistema institucional
+# Intelectio: building an institutional system
+
+🇧🇷 [Versão em português](intelectio.pt-BR.md)
 
 **Eduardo dos Santos Paim · PHP/Laravel · UNIPAMPA / PROINOVE**
 
-[Produto](https://intelectio.com.br/) · [Contato](https://www.linkedin.com/in/eduardo-ds-paim/)
+[Product](https://intelectio.com.br/) · [Contact](https://www.linkedin.com/in/eduardo-ds-paim/)
 
-## Contexto
+## Context
 
-O Intelectio é um sistema de gestão de propriedade intelectual em piloto institucional. Reúne ativos, prazos, documentos, pagamentos e histórico de decisões para apoiar o trabalho de pessoas autorizadas pela instituição.
+Intelectio is an intellectual property management system in an institutional pilot. It brings together assets, deadlines, documents, payments and decision history to support the work of people authorized by the institution.
 
-## Minha participação
+## My role
 
-Atuei como estagiário em 2026 e continuo no projeto como bolsista desde setembro. Trabalho no desenvolvimento e na manutenção de funcionalidades backend e frontend, integrações, testes, documentação e operação do ambiente. O projeto tem contribuições de outras pessoas; esta apresentação não atribui a mim autoria exclusiva de toda a solução.
+I worked as an intern in 2026 and have continued on the project as a development fellow since September. I develop and maintain backend and frontend features, integrations, tests, documentation and environment operations. Other people also contribute to the project; this page does not claim sole authorship of the whole solution.
 
-## Um caso de engenharia: integração com dados públicos
+## An engineering case: integrating public data
 
-A integração com fontes do INPI exige mais que importar um arquivo. Dados precisam ser normalizados, associados ao ativo correto e revisados quando há divergência. Minha atuação envolve processamento de ZIP/XML/HTML, validação, controle de duplicidade, proveniência e reprocessamento em filas.
+Integrating data from INPI (the Brazilian Patent and Trademark Office) takes more than importing a file. Data must be normalized, linked to the correct asset and reviewed when there are discrepancies. My work involves ZIP/XML/HTML processing, validation, duplicate control, provenance and queued reprocessing.
 
-O objetivo é permitir que a equipe examine a origem da informação e tome decisões com histórico. Dados recebidos de uma fonte não substituem uma confirmação humana quando o fluxo exige revisão.
+The goal is to let the team examine where each piece of information came from and make decisions with a history behind them. Data received from a source does not replace human confirmation when the workflow requires review.
 
-## Outros caminhos em que atuo
+## Other areas I work on
 
-- Regras de negócio e persistência relacional com Laravel/Eloquent e MySQL.
-- Permissões e isolamento de dados por organização.
-- Interface em Blade, Alpine.js e Tailwind CSS.
-- Testes automatizados com PHPUnit e Laravel Dusk.
-- Filas Redis, tarefas agendadas, Docker Compose e procedimentos de manutenção.
+- Business rules and relational persistence with Laravel/Eloquent and MySQL.
+- Permissions and per-organization data isolation.
+- UI with Blade, Alpine.js and Tailwind CSS.
+- Automated tests with PHPUnit and Laravel Dusk.
+- Redis queues, scheduled tasks, Docker Compose and maintenance procedures.
 
-## Como apresento o trabalho em entrevista
+## How I present this work in interviews
 
-1. Explico o problema de uma rotina institucional.
-2. Demonstro um fluxo com dados fictícios, quando disponível no ambiente de apresentação.
-3. Mostro a decisão técnica, uma falha possível e como o comportamento é validado.
-4. Distingo o que implementei, o que foi construído em colaboração e o que ainda está em validação.
+1. I explain the problem behind an institutional routine.
+2. I demonstrate a flow with fictional data, when available in the presentation environment.
+3. I show the technical decision, a possible failure and how the behavior is validated.
+4. I distinguish what I implemented, what was built collaboratively and what is still being validated.
 
-## Estado e limites
+## Status and limits
 
-Código-fonte e dados institucionais são privados. A página pública apresenta o produto; não concede acesso às funcionalidades internas. Esta página é um relato de atuação, não uma demonstração interativa. Não anuncio métricas de adoção ou economia de tempo sem medição documentada. Capturas e gravações internas dependem de material autorizado para divulgação e dados fictícios.
+Source code and institutional data are private. The public page presents the product; it does not grant access to internal features. This page is an account of my work, not an interactive demo. I do not claim adoption metrics or time savings without documented measurement. Internal screenshots and recordings depend on material authorized for release and on fictional data.
