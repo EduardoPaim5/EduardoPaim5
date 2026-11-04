@@ -22,6 +22,10 @@ Busco oportunidades júnior em backend ou full stack. Tenho disponibilidade remo
 | Agenda Médica | Integração HTTP em Flask, contratos, estados de erro e testes | [Repositório e capturas](https://github.com/EduardoPaim5/agenda-medica-timesaver) |
 | Nexo | Tema e plugin PHP para WooCommerce, frete e checkout simulado | [Repositório e gravação](https://github.com/EduardoPaim5/nexo-woocommerce) |
 
+## Contribuição open source
+
+- **[Thoth](https://github.com/Thoth2023/thoth-remake)**, ferramenta colaborativa para revisões sistemáticas em Laravel: [4 pull requests aceitos](https://github.com/Thoth2023/thoth-remake/pulls?q=is%3Apr+author%3AEduardoPaim5+is%3Amerged) em 2025 — correção do sistema de convites para projetos, funcionalidade de recusar convite e documentação inline dos módulos de Quality Assessment, Project e User.
+
 ## Tecnologias por contexto
 
 **Atuação no Intelectio:** PHP, Laravel, Eloquent, MySQL, Blade, Alpine.js, Tailwind CSS, Redis, filas, PHPUnit, Laravel Dusk, Docker Compose, Git e GitHub Actions.
@@ -38,4 +42,4 @@ Uso IA como assistência ao desenvolvimento. A responsabilidade pela revisão, p
 
 ---
 
-Software Engineering student at UNIPAMPA and software development scholarship holder. My primary professional stack is PHP/Laravel and SQL, with additional Java, TypeScript and Python projects. Open to junior backend and full-stack opportunities.
+Software Engineering student at UNIPAMPA and software development scholarship holder. My primary professional stack is PHP/Laravel and SQL, with additional Java, TypeScript and Python projects and merged contributions to the open-source Laravel project Thoth. Open to junior backend and full-stack opportunities.
